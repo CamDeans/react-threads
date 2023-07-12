@@ -1,0 +1,106 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "user_uuid": "91f16eb3-b041-47f0-b538-267c5b77cd12",
+            "username": "Code with Cameron Deans",
+            "handle": "camerondeans",
+            "bio": "I provide a variety of web services, we specialize in delivering versatile desktop and mobile web services, internet-facing web applications, and innovative cloud solutions. Whether you need a dynamic website, a robust e-commerce platform, or a scalable cloud infrastructure, our team of skilled professionals is dedicated to bringing your ideas to life while adhering to the highest industry standards.",
+            "link": "https://github.com/CamDeans",
+            "img": "https://i.imgur.com/VSBWjWO.png", 
+            "instagram_url": "https://www.instagram.com/cameronm.deans/",
+            "followers": [
+                {
+                    "user_uuid": "897e6129-8b83-45b0-8469-d466bbf77697"
+                },
+                {
+                    "user_uuid": "fec41312-0ee8-4068-99dd-6f874ee29ea2"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "user_uuid": "897e6129-8b83-45b0-8469-d466bbf77697",
+            "username": "Bobby's Burgers",
+            "handle": "bobbysburgers",
+            "bio": "I make the best burgers in town.",
+            "link": "https://bobbysburgers.com",
+            "img": "https://i.imgur.com/8JMnwQm.jpg", 
+            "instagram_url": "https://www.instagram.com/bobbysburgers/",
+            "followers": [
+                {
+                    "user_uuid": "91f16eb3-b041-47f0-b538-267c5b77cd12"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "user_uuid": "fec41312-0ee8-4068-99dd-6f874ee29ea2",
+            "username": "Ani Talli",
+            "handle": "truthsayer",
+            "bio": "Just a person trying to do their best.",
+            "link": "",
+            "img": "https://i.imgur.com/RyTZoSb.jpg", 
+            "instagram_url": "https://www.instagram.com/anitalli/",
+            "followers": [
+                {
+                    "user_uuid": "91f16eb3-b041-47f0-b538-267c5b77cd12"
+                }
+            ]
+        }
+    ],
+    "threads": [
+        {
+            "id": 0,
+            "timestamp": "Wed Jul 12 2023 09:47:20 GMT-0400 (Eastern Daylight Time)",
+            "thread_from": "91f16eb3-b041-47f0-b538-267c5b77cd12",
+            "thread_to": null,
+            "reply_to": null,
+            "text": "Hello world (of threads)",
+            "likes": [
+                    {
+                        "uuid": "fec41312-0ee8-4068-99dd-6f874ee29ea2"
+                    },
+                    {
+                        "uuid": "897e6129-8b83-45b0-8469-d466bbf77697"
+                    }
+                ]
+        },
+        {
+            "id": 1,
+            "timestamp": "Sat Jul 15 2023 13:47:20 GMT-0400 (Eastern Daylight Time)",
+            "thread_from": "91f16eb3-b041-47f0-b538-267c5b77cd12",
+            "thread_to": null,
+            "reply_to": null,
+            "text": "Awesome thread",
+            "likes": []
+        },
+        {
+            "id": 2,
+            "timestamp": "Sat Jul 15 2023 18:47:20 GMT-0400 (Eastern Daylight Time)",
+            "thread_from": "91f16eb3-b041-47f0-b538-267c5b77cd12",
+            "thread_to": null,
+            "reply_to": null,
+            "text": "Awesome one",
+            "likes": []
+        },
+        {
+            "id": 3,
+            "timestamp": "Sat Jul 15 2023 13:55:00 GMT-0400 (Eastern Daylight Time)",
+            "thread_from": "fec41312-0ee8-4068-99dd-6f874ee29ea2",
+            "thread_to": null,
+            "reply_to": null,
+            "text": "Excited to have launched Bobb's Burgers!",
+            "likes": []
+        }},
+        {
+            "id": 4,
+            "timestamp": "Sat Jul 15 2023 13:55:00 GMT-0400 (Eastern Daylight Time)",
+            "thread_from": "91f16eb3-b041-47f0-b538-267c5b77cd12",
+            "thread_to": "fec41312-0ee8-4068-99dd-6f874ee29ea2",
+            "reply_to": 3,
+            "text": "Congrats!",
+            "likes": []
+        }
+    ]
+}
