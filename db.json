@@ -3,12 +3,12 @@
         {
             "id": 0,
             "user_uuid": "91f16eb3-b041-47f0-b538-267c5b77cd12",
-            "username": "Code with Cameron Deans",
+            "username": "Cameron M Deans",
             "handle": "camerondeans",
-            "bio": "I provide a variety of web services, we specialize in delivering versatile desktop and mobile web services, internet-facing web applications, and innovative cloud solutions. Whether you need a dynamic website, a robust e-commerce platform, or a scalable cloud infrastructure, our team of skilled professionals is dedicated to bringing your ideas to life while adhering to the highest industry standards.",
+            "bio": "Delivering versatile desktop and mobile web services, internet-facing web applications.",
             "link": "https://github.com/CamDeans",
             "img": "https://i.imgur.com/VSBWjWO.png", 
-            "instagram_url": "https://www.instagram.com/cameronm.deans/",
+            "instagram_url": "https://www.instagram.com/cameron.deans/",
             "followers": [
                 {
                     "user_uuid": "897e6129-8b83-45b0-8469-d466bbf77697"
